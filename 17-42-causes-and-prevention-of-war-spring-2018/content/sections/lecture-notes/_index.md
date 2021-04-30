@@ -1,0 +1,23 @@
+---
+course_id: 17-42-causes-and-prevention-of-war-spring-2018
+layout: course_section
+menu:
+  leftnav:
+    identifier: 26fed574b0573057e80d2ff17969e6d1
+    name: Lecture Notes
+    weight: 40
+title: Lecture Notes
+type: course
+uid: 26fed574b0573057e80d2ff17969e6d1
+
+---
+
+Note: There are no lecture notes for Sessions 11 and 23.
+
+| SES # | TOPICS | LECTURE NOTES |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**I. Introduction**{{< /td-colspan >}} |||
+| 1 | Introduction | [Course Overview (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec1_overview) |
+| {{< td-colspan 3 >}}**II. 34 Hypotheses on the Causes of War**{{< /td-colspan >}} ||| {{< br >}}{{< br >}} | 2–3 | 8 Hypotheses on Military Factors as Causes of War | [Military Power and the Causes of War: 8 Hypotheses (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec2-3_hypotheses)  | {{< br >}}{{< br >}} | 4–7 | Misperception and War; Religion and War |  {{< br >}}{{< br >}} ["What Were They Thinking?" National Misperceptions as Causes of War (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec4-7_mispercept) {{< br >}}{{< br >}} [The "Spiral Model" vs. the "Deterrence Model" (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec4-7_spiralmodel) {{< br >}}{{< br >}} [Three Types of Spirals (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec4-7_threespirals) {{< br >}}{{< br >}}  |
+| 8–9 | More Causes of War and Peace | [More Causes of War and Peace (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec8-9_warpeace) |
+| {{< td-colspan 3 >}}**III. Cases: Wars and Crises**{{< /td-colspan >}} ||| {{< br >}}{{< br >}} | 10 | The Seven Years War |  {{< br >}}{{< br >}}  [The Anglo-French Seven Years' War, 1756–1763: An Inadvertant War? An Avoidable War? (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec10_7yearswar) {{< br >}}{{< br >}} [Great Wars of European History, 1740– (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec10_greatwars) {{< br >}}{{< br >}}  | {{< br >}}{{< br >}} | 12–14 | World War I |  {{< br >}}{{< br >}} [The Austro-Prussian War of 1866 / The Franco-Prussian War of 1870 (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec12-14_prussian) {{< br >}}{{< br >}} [The Origins of the First World War, Part I (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec12-14_wwi_i) {{< br >}}{{< br >}} [The Origins of the First World War, Part II: Who Caused the War? Theories of Responsibility (The Fischer Controversy) (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec12-14_wwi_ii) {{< br >}}{{< br >}}  | {{< br >}}{{< br >}} | 15–18 | World War II |  {{< br >}}{{< br >}} [The Origins of the Second World War (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec15-18_wwii) {{< br >}}{{< br >}} [Causes of the Holocaust (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec15-18_holocaust) {{< br >}}{{< br >}}  | {{< br >}}{{< br >}} | 19 |  {{< br >}}{{< br >}} _Interlude:_ {{< br >}}{{< br >}} Hypotheses on Escalation and Limitation of War {{< br >}}{{< br >}} Nuclear Weapons, Nuclear Strategy, Other Weapons of Mass Destruction and the Causes of War. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [The Causes of Intense War (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec19_intensewar) {{< br >}}{{< br >}} [Weapons of Mass Destruction and World Politics (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec19_massdestruct)  {{< br >}}{{< br >}}  | {{< br >}}{{< br >}} | 20–21 | The Cold War, Korea and Indochina | [The Cold War (1947–1989) and Korea (1950–1953) (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec20-21_coldwar) | {{< br >}}{{< br >}} | 22 | The Israel-Arab Conflict | [Causes of / Solutions to the Israel-Arab Conflict (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec22_israelarab)﻿ | {{< br >}}{{< br >}} | 24 | The Peloponnesian War | [The Peloponnesian War, 460–404 BCE (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec24_peloponnesian) | {{< br >}}{{< br >}} | {{< td-colspan 3 >}}**IV. The Future of War**{{< /td-colspan >}} ||| {{< br >}}{{< br >}} | 25–26 |  {{< br >}}{{< br >}} Testing & Applying Theories of War Causation {{< br >}}{{< br >}} The Future of War {{< br >}}{{< br >}} Solutions to War {{< br >}}{{< br >}}  | [The Future of War and Solutions to War (PDF)]({{< baseurl >}}/sections/lecture-notes/mit17_42s18_lec25-26_futurewar)
